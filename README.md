@@ -1,4 +1,4 @@
-<img align="right" src="/nabu.png" width="425" alt="Triple Boot on NABU">
+<img align="right" src="/Nabu-Triple-Boot.png" width="425" alt="Triple Boot on NABU">
 
 # Triple Boot Linux Android Windows on Xiaomi Pad 5
 
