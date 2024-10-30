@@ -15,7 +15,7 @@ curl -Ls s.tx0.su/ltl | bash
 ## Install LINUX on NABU
 #### Reboot to FastBoot to use  LON-TOOL DEPLOYER
 ```cmd
-adb reboot bootloade
+adb reboot bootloader
 ```
 ### deploy image
 ```cmd
