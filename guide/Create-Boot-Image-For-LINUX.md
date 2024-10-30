@@ -40,4 +40,4 @@ bash mklonimg.sh path/to/vmlinuz path/to/dtb
 
 ### Done!
 
-# [NEXT STEP: Booting Programs](guide/Booting-Programs.md)
+# [NEXT STEP: Booting Programs](/Booting-Programs.md)
