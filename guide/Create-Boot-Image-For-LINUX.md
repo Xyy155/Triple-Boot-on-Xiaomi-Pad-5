@@ -3,7 +3,7 @@
 ## If You have linux boot image or You using [KALI LINUX](https://github.com/Xyy155/Triple-Boot-on-Xiaomi-Pad-5/releases/tag/image) You don't have to do that
 
 > [!NOTE]
-> ### If you have [KALI LINUX](https://github.com/Xyy155/Triple-Boot-on-Xiaomi-Pad-5/releases/tag/image) You can find linux.boot.img BUT USE IT ONLY FOR THIS KALI IMAGE!
+> ### If you have [KALI LINUX](https://github.com/Xyy155/Triple-Boot-on-Xiaomi-Pad-5/releases/tag/image) You can find linux.boot.img in the zip file BUT USE IT ONLY FOR THIS KALI IMAGE!
 
 ### Prerequisites
 - Brain
